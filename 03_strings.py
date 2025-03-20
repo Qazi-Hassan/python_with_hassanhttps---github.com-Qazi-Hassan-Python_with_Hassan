@@ -1,0 +1,6 @@
+print("test for single quotes")
+print("test for double quotes")
+print("test for triple qoutes")
+print('I am Ali')
+print("My nmae is Hassan")
+print('''My name is ali hasan''')
